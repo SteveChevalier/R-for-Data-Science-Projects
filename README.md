@@ -15,4 +15,9 @@ Data set; Visualizing Inequalities_UNdata_Export.xlsx
 Jupyter Notebook; Project_Bad PW - NIST Guidelines.ipynb
 Data set; users.txt
 
+**Exploring the Kaggle Data Science Survey**
+In this project, we are going to find out what tools and languages professionals use in their day-to-day work. Our data comes from the <a href="https://www.kaggle.com/kaggle/kaggle-survey-2017?
+
+Jupyter Notebook; Kaggle_DataScience_Survey_final.ipynb
+Data set; Kaggle_DataScience_Survey_responses.txt
 
