@@ -33,3 +33,8 @@ In this notebook, we'll explore time series of food prices in Rwanda from the Un
 Jupyter Notebook; Functions for Food Price Forecasts.ipynb
 Data set; Functions for Food Price Forecasts_data.zip
 
+**A Visual History of Noberl Prize Winners**
+The Nobel Prize is perhaps the worlds most well known scientific award. Except for the honor, prestige and substantial prize money the recipient also gets a gold medal showing Alfred Nobel (1833 - 1896) who established the prize. Every year it's given to scientists and scholars in the categories chemistry, literature, physics, physiology or medicine, economics, and peace. The first Nobel Prize was handed out in 1901, and at that time the Prize was very Eurocentric and male-focused, but nowadays it's not biased in any way whatsoever. Surely. Right?
+
+Jupyter Notebook; A Visual History of Nobel Prize Winners.ipynb
+Data set; A Visual History of Nobel Prize Winners_data_nobel.csv
