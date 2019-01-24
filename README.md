@@ -21,3 +21,10 @@ In this project, we are going to find out what tools and languages professionals
 Jupyter Notebook; Kaggle_DataScience_Survey_final.ipynb
 Data set; Kaggle_DataScience_Survey_responses.txt
 
+**Wrangling and Visualizing Musical Data**
+How do musicians choose the chords they use in their songs? Do guitarists, pianists, and singers gravitate towards different kinds of harmony?
+
+Jupyter Notebook; Wrangling and Visualizing Musical Data.ipynb
+Data set; Wrangling and Visualizing Musical Data_bb_chords.csv
+
+
