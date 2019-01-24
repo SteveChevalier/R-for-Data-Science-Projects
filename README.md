@@ -27,4 +27,9 @@ How do musicians choose the chords they use in their songs? Do guitarists, piani
 Jupyter Notebook; Wrangling and Visualizing Musical Data.ipynb
 Data set; Wrangling and Visualizing Musical Data_bb_chords.csv
 
+**Functions for Food Price Forecasts**
+In this notebook, we'll explore time series of food prices in Rwanda from the United Nations Humanitarian Data Exchange Global Food Price Database. Agriculture makes up over 30% of Rwanda's economy, and over 60% of its export earnings (CIA World Factbook), so the price of food is very important to the livelihood of many Rwandans.
+
+Jupyter Notebook; Functions for Food Price Forecasts.ipynb
+Data set; Functions for Food Price Forecasts_data.zip
 
